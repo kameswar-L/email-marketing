@@ -1,2 +1,1 @@
 Delete all courses
-Revert option check
