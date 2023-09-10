@@ -1,7 +1,1 @@
-AWS Cloud Architect
-Devops
-SQL server
-Project basics
-prepare on real time projects
-Interview preparation
-attend Interviews
+Delete all courses
